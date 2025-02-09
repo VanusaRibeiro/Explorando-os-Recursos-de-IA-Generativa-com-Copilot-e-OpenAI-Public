@@ -83,7 +83,7 @@ O termo engenharia de prompt descreve o processo de aprimoramento de prompts.
 
 Os desenvolvedores que projetam aplicativos e consumidores que usam aplicativos podem aprimoar a qualidade das respostas da IA gerativa usando linguagem direta, mensagem do sistema, exemplos e/ou dados de fundamentação.
 
-Fundamentos do Serviço Azure OpenAI
+Fundamentos do Serviço Azure OpenAI<br><br>
 O que é o OpenAI do Azure?
 
 O Serviço OpenAI do Azure é a solução de nuvem da Microsoft para implantar, personalizar e hospedar modelos de linguagens grandes.
@@ -120,7 +120,9 @@ Os modelos GPT traduzem linguagem natural ou trechos de código em código.
 A geração de código vai além de apenas escrever código a partir de prompts em linguagem natural.
 Os modelos de IA gerativa podem editar e criar imagens. O modelo que funciona com imagens é chamado DELL-E, que dá suporte à criação de imagem, edição de imagem e criação de variações de imagem.
 
-Geração de imagens: Com o DALL-E é possível até solicitar uma imagem em um determinado estilo. Os estilos também podem ser usados para edições e variações.
+Geração de imagens<br>
+Com o DALL-E é possível até solicitar uma imagem em um determinado estilo.<br>
+Os estilos também podem ser usados para edições e variações.
 
 Editando uma imagem: DALL-E pode editar a imagem conforme solicitado, alterando seu estilo, adicionando ou removendo itens ou gerando novo conteúdo para adicionar.
 
